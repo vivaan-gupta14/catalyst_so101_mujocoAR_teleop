@@ -32,7 +32,7 @@ To run this code, you will need:
 
 Execute the Python script. The script will automatically connect to the phone and begin teleoperation upon device connection.
 
-⚠️ Operation & Safety
+Operation & Safety
 This script operates in two modes:
 
 TELEOP: Real-time movement driven by the phone's position delta.
@@ -41,6 +41,6 @@ HOMING: Initiated by pressing the phone's designated button. Moves the robot to 
 
 Disclaimer: This version is provided for demonstration and educational purposes. It relies on explicit user control for safety as well. Use with caution.
 
-🔗 External Value and Contribution
+External Value and Contribution
 This project contributes to robotics scholarship by providing a reliable, low-cost model for Human-Robot Interaction (HRI). 
 The use of an Extended Kalman Filter on commercial hardware demonstrates a practical method for achieving industrial-grade smoothness using accessible devices like smartphones.
